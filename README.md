@@ -4,11 +4,13 @@
 - 📫 How to reach me -> fabienwinkler@outlook.fr
 
 <details>
-<summary>📊 Github Stats</summary>
+<summary> :bar_chart: Github Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fabienwnklr&show_icons=true&theme=gotham" alt="Fabien Winkler | Stats" />
 </details>
-  
+
+- 👀 Visitor counter:
+
 ![Visitor Count](https://profile-counter.glitch.me/{fabienwnklr}/count.svg)
  
 <!---
