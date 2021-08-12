@@ -9,9 +9,14 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fabienwnklr&show_icons=true&theme=gotham" alt="Fabien Winkler | Stats" />
 </details>
 
+<details>
+<summary> 
 - 👀 Visitor counter:
+ </summary> 
+ 
+ ![Visitor Count](https://profile-counter.glitch.me/{fabienwnklr}/count.svg)
+ </details>
 
-![Visitor Count](https://profile-counter.glitch.me/{fabienwnklr}/count.svg)
  
 <!---
 fabienwnklr/fabienwnklr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
