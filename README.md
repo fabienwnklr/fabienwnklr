@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fabienwnklr
 - 👀 I’m interested in software, website and apps development
-- 🌱 I’m currently learning Vuejs, AdonisJS, React Native, and more...
+- 🌱 I’m currently learning Flutter, Vuejs, AdonisJS, React Native, and more...
 - 📫 How to reach me -> fabienwinkler@outlook.fr
 - :moneybag: How to support me and my project ? https://liberapay.com/Fabwnklr/
 
