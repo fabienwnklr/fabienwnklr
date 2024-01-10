@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Fabien</h1>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=50&duration=4000&color=5b1f8f&center=true&vCenter=true&width=700&lines=Hey+I'm+Fabien+Winkler;This+is..;..my+Github..;" alt="Typing SVG"/>
+</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabienwnklr&label=Profile%20views&color=0e75b6&style=flat" alt="fabienwnklr" /> </p>
