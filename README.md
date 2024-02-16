@@ -34,7 +34,6 @@
 <a href="https://linkedin.com/in/fabienwnklr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabienwnklr" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/fabienwnklr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="fabienwnklr" height="30" width="40" /></a>
 <a href="https://codesandbox.com/fabienwnklr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="fabienwnklr" height="30" width="40" /></a>
-<a href="https://instagram.com/fabienwnklr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fabienwnklr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
