@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Selectize**
 
-- 🤝 I’m looking for help with **[free-drawing]([https://fabienwinkler.fr](http://github.com/fabienwnklr/free-drawing))**
+- 🤝 I’m looking for help with [free-drawing](http://github.com/fabienwnklr/free-drawing)
 
 - 👨‍💻 All of my projects are available at [fabienwinkler.fr](https://fabienwinkler.fr)
 
