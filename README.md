@@ -13,13 +13,11 @@
 
 - 👯 I’m looking to collaborate on **Selectize**
 
-- 🤝 I’m looking for help with **Drawer**
+- 🤝 I’m looking for help with **[free-drawing]([https://fabienwinkler.fr](http://github.com/fabienwnklr/free-drawing))**
 
 - 👨‍💻 All of my projects are available at [fabienwinkler.fr](https://fabienwinkler.fr)
 
-- 📝 I regularly write articles on [fabienwinkler.fr/blog](https://fabienwinkler.fr/blog)
-
-- 💬 Ask me about **react, vue, typescript**
+- 💬 Ask me about **react, vue, typescript, nodejs, php**
 
 - 📫 How to reach me **fabienwinkler@outlook.fr**
 
