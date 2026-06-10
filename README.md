@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabienwnklr" alt="fabienwnklr" /></a> </p>
 
-- 🔭 I’m currently working on **Geomatika**
+- 🔭 I’m currently working on **Come To Paris**
 
 - 🌱 I’m currently learning **React Native, AdonisJS**
 
@@ -15,13 +15,11 @@
 
 - 🤝 I’m looking for help with [free-drawing](http://github.com/fabienwnklr/free-drawing)
 
-- 👨‍💻 All of my projects are available at [fabienwinkler.fr](https://fabienwinkler.fr)
+- 👨‍💻 All of my projects are available  [here](https://github.com/fabienwnklr?tab=repositories)
 
 - 💬 Ask me about **react, vue, typescript, nodejs, php**
 
-- 📫 How to reach me **fabienwinkler@outlook.fr**
-
-- 📄 Know about my experiences [fabienwinkler.fr/cv](https://fabienwinkler.fr/cv)
+- 📫 How to reach me **fabien.winkler@outlook.fr**
 
 - ⚡ Fun fact **Before being a dev, i make PIZZA**
 
